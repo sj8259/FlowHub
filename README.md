@@ -1,4 +1,7 @@
-# FlowHub - Where Ideas Flow and Teams Connect
+<div align="center">
+  <img src="./public/logo-icon-only.svg" alt="FlowHub Logo" width="120" height="120">
+  <h1>FlowHub - Where Ideas Flow and Teams Connect</h1>
+</div>
 
 A beautiful, minimalist platform built with **Next.js** and **Google Material You Design System** where rookies share project ideas and experts join their teams.
 
